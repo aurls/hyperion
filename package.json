@@ -1,6 +1,6 @@
 {
   "name": "hyperion",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "browserslist": "> 0.25%, not dead",
   "scripts": {
