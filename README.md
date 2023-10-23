@@ -19,4 +19,4 @@ Primitive React/Node.js setup for fast lunch of web app development.
 #### TODO
 
 - [ ] https://github.com/aurls/hyperion/issues/1
-- [ ] https://github.com/aurls/hyperion/issues/2
+- [x] https://github.com/aurls/hyperion/issues/2
