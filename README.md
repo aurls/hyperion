@@ -1,12 +1,13 @@
-# Rude Web App Boilerplate
+# React App Setup
 
-Primitive React/Node.js setup for fast lunch of web app development.
+React/Node.js project setup for fast lunch of web app development.
 
 #### Stack
 
 * React;
 * Redux Toolkit;
 * Node.js;
+* Express;
 * TypeScript;
 * SCSS;
 * Webpack.
